@@ -10,7 +10,7 @@ Megoldott feladatok:
 - 5
 
 Dokumentáció:
-- 1. Futtatáshoz szükséges állományok:
+1. Futtatáshoz szükséges állományok:
 A program futtatásához szükséges az adott ágon megtalálható összes fájl.
 Kiemelten fontos:
 - Derby adatbázis mappa
@@ -18,7 +18,7 @@ Kiemelten fontos:
 
 Optimális fordítás,futás esetén ajánlott az IntelliJ Idea IDE használata.
 
-- 2.Specifikáció:
+2.Specifikáció:
 Ezen program egy megadott .csv állomány adataiból beolvasva végzi el az alábbi műveleteket:
 - Adatbázisba feltöltés
 - Adatbázis lekérdezése
@@ -34,7 +34,7 @@ A program jelenleg ösztöndíj adatokat tárol el az alábbi megadott formában
 
 A jelen Github ágakon megadott forrás .csv állomány tartalmazza a szükséges formátumot
 
-- 3.Adatbázis architektúra:
+3.Adatbázis architektúra:
 SchoolarshipsDB adatbázis
 - Egyetlen táblával rendelkezik: Schoolarships
 - Az adattábla architektúráját megtalálja a Feladat5 névü Github ágon .pdf formátumban.
