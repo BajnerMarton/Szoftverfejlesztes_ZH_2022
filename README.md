@@ -15,6 +15,7 @@ A program futtatásához szükséges az adott ágon megtalálható összes fájl
 Kiemelten fontos:
 - Derby adatbázis mappa (Jelen esetben minden Github ágon .zip fájlként elérhető, kérem csomagolja ki futtatás előtt)
 - Gson.jar fájl
+- Az elkészített adatbázis mappája (Release verziótól)
 
 Optimális fordítás,futás esetén ajánlott az IntelliJ Idea IDE használata.
 
