@@ -4,6 +4,4 @@ Név: Keresztúri Gergő
 Neptun: X7PT4C
 
 Megoldott feladatok:
-- 1.
-- 2.
-- 3.
+1. 2. 3.
