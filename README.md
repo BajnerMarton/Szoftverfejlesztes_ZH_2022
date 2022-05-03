@@ -21,6 +21,7 @@ Optimális fordítás,futás esetén ajánlott az IntelliJ Idea IDE használata.
 
 2.Specifikáció:
 Ezen program egy megadott .csv állomány adataiból beolvasva végzi el az alábbi műveleteket:
+(RELEASE verziótól .json)
 - Adatbázisba feltöltés
 - Adatbázis lekérdezése
 - Adatokat tároló lista keresés alapú szűrése
@@ -34,6 +35,7 @@ A program jelenleg ösztöndíj adatokat tárol el az alábbi megadott formában
 - Helyszín
 
 A jelen Github ágakon megadott forrás .csv állomány tartalmazza a szükséges formátumot
+(RELEASE verziótól .json)
 
 3.Adatbázis architektúra:
 SchoolarshipsDB adatbázis
