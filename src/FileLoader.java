@@ -36,7 +36,12 @@ public class FileLoader {
                     //Handling data from file
                     int id = Integer.valueOf(words[0]);
                     String title = words[1];
-                    String degrees = words[2];
+                    String[] degreesArray = words[2].split(",");
+                    String degrees = "";
+                    for(int i=0; i < degreesArray.length; i++)
+                    {
+                        degrees = degrees+degreesArray[i] + " ";
+                    }
                     String funds = words[3];
                     String date = words[4];
                     String location = words[5];
