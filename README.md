@@ -55,3 +55,6 @@ A program telepítéséhez szükség van az alábbi lépések teljesítésére:
   - Program megjelenítése valamely integrált fejlesztőkörnyezetben
   - Depenencies beállítások: gson.jar és db-derby-10.14.2.0-bin/lib/összes jar állomány
   - Main.java futtatása
+
+5. Use Case Diagram
+![use case](https://user-images.githubusercontent.com/96192995/166455551-d15c7a89-cf85-4e42-84d7-0e6a7b777a8b.png)
