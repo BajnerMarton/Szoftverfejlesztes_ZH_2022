@@ -2,3 +2,8 @@
 PE Szoftverfejlesztés ZH 2022 Kedd12 
 Név: Keresztúri Gergő
 Neptun: X7PT4C
+
+Megoldott feladatok:
+- 1.
+- 2.
+- 3.
