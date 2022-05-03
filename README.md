@@ -38,6 +38,7 @@ A jelen Github ágakon megadott forrás .csv állomány tartalmazza a szüksége
 SchoolarshipsDB adatbázis
 - Egyetlen táblával rendelkezik: Schoolarships
 - Az adattábla architektúráját megtalálja a Feladat5 névü Github ágon .pdf formátumban.
+
 Schoolarships tábla architektúrája:
 - ID INT PRIMARY KEY
 - TITLE VARCHAR(500)
